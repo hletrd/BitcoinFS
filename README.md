@@ -6,7 +6,7 @@
 * Worrying about overhead for storing arbitrary data along with your file? It's just a small trade-off for storing your data safe. 
 
 ### How can I delete my data?
-* Just remove a metadata pointing to the transaction storing a chunk of your data!
+* Just remove a metadata pointing to the transaction storing a chunk of your data! or you may carry out [51% attack](https://en.bitcoin.it/wiki/Majority_attack).
 
 ### It is too expensive!
 * The first commercial HDD, [IBM 305 RAMAC](https://en.wikipedia.org/wiki/IBM_305_RAMAC) was about $30,000 for storing 5MB of data. BitcoinFS is cheaper!
